@@ -108,8 +108,9 @@ textarea {
 --------------------
 */
 
+/* background: url(../img/profile_bg.png) right no-repeat; */
 header {
-    background: url(../img/profile_bg.png) right no-repeat;
+    
     background-size: contain;
     padding: 50px 0;
 }
@@ -233,8 +234,9 @@ header .column_4 {
     font-size: 16px;
 }
 .latst_wrks_rgt {
-    background: #f285b8;
+    background: #efbedd;
     padding: 20px 0;
+    
 }
 .latst_wrks_rgt img {
     position: relative;
@@ -612,7 +614,7 @@ footer {
     }
     .email_social ul li {
         display: inline-block;
-        float: unset;
+        float:none;
     }
     .email_social h3 {
         font-size: 1em;
