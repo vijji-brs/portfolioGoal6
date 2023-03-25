@@ -403,6 +403,24 @@ footer {
     margin-right: 15px;
 }
 
+/* View Code Button      */
+.viewcode_button {
+    float: left;
+}
+
+    .viewcode_button ul li,
+    .viewcode_button ul li a {
+        float: left;
+        font-size: 20px;
+        font-weight: 400;
+        font-family: "lato";
+        color: #0c0c0e;
+        text-decoration: none;
+        list-style: none;
+        margin-top: 20px;
+        margin-right: 6px;
+    }
+
 /* Email Social
 --------------------
 */
